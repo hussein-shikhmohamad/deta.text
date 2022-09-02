@@ -1,3 +1,6 @@
-<h1>hello</h1>
-<input type='text'value='hussein'>
-<button>ok</button>
+<h1		id="r  ">Result! </h1>
+	<button id="btn">click me</button>
+	<div	id="frm">
+	 <input type="text" id="fname" name="firstname"placeholder="your name..		"><br>
+	 <input type="text" id="lname" name="lastname "placeholder="your last name.."><br>
+	
