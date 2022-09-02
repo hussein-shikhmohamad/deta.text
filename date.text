@@ -1,6 +1,4 @@
-<h1		id="r  ">Result! </h1>
-	<button id="btn">click me</button>
-	<div	id="frm">
+<h1>ok</h1>
 	 <input type="text" id="fname" name="firstname"placeholder="your name..		"><br>
 	 <input type="text" id="lname" name="lastname "placeholder="your last name.."><br>
 	
