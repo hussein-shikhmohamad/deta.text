@@ -1,7 +1,5 @@
-<h1>oklo</h1>
-	 <input type="text" id="fname" name="firstname"placeholder="your name..		"><br>
-	 <input type="text" id="lname" name="lastname "placeholder="your last name.."><br>
-	 <input value="a">
-	 <input value="b">
-	 <input value="c">
-	
+	<h1 id="demo"></h1>
+	<script>
+		if(navigator.onLine==true){document.getElementById("demo").innerHTML ="1"}
+		else {document.getElementById("demo").innerHTML ="0"}
+	</script>
