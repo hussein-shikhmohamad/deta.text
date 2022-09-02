@@ -1,4 +1,4 @@
-	<h6 id="demo"></h6>
+	<h1 id="demo"></h1>
 	<script>
 		if(navigator.onLine==true){document.getElementById("demo").innerHTML ="1"}
 		else {document.getElementById("demo").innerHTML ="0"}
