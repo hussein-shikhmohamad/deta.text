@@ -1,5 +1,4 @@
-<h1>ok</h1>
-<h1>hussein </h1>
-	 <input type="text" value="hi"id="fname" name="firstname"placeholder="your name..		"><br>
+<h1>oklo</h1>
+	 <input type="text" id="fname" name="firstname"placeholder="your name..		"><br>
 	 <input type="text" id="lname" name="lastname "placeholder="your last name.."><br>
 	
