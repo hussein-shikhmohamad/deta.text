@@ -1,5 +1,5 @@
 <h1>oklo</h1>
-<p>hhhh</p>
 	 <input type="text" id="fname" name="firstname"placeholder="your name..		"><br>
 	 <input type="text" id="lname" name="lastname "placeholder="your last name.."><br>
+	 <input value="a">
 	
